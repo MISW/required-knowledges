@@ -50,9 +50,9 @@ http://cocodrips.hateblo.jp/entry/2015/10/11/114212
 
 ### 参考書籍（おすすめ順）
 
-- プログラミングコンテスト攻略のためのアルゴリズムとデータ構造 [Amazon](https://www.amazon.co.jp/プログラミングコンテスト攻略のためのアルゴリズムとデータ構造-渡部-有隆/dp/4839952957/ref=sr_1_2?ie=UTF8&qid=1489593786&sr=8-2&keywords=競技プログラミング) [学内所蔵あり](http://wine.wul.waseda.ac.jp/search~S12*jpn?/t{u30D7}{u30ED}{u30B0}{u30E9}{u30DF}{u30F3}{u30B0}{u30B3}{u30F3}{u30C6}{u30B9}{u30C8}/t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}/1%2C2%2C3%2CB/frameset&FF=t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}{21423f}{214c35}{69254e}{69253f}{692561}{69254e}{692522}{69256b}{692534}{69256a}{69253a}{692560}{692548}{692547}{69253f}{214539}{215c29}&1%2C1%2C)
+- プログラミングコンテスト攻略のためのアルゴリズムとデータ構造 [【Amazon】](https://www.amazon.co.jp/プログラミングコンテスト攻略のためのアルゴリズムとデータ構造-渡部-有隆/dp/4839952957/ref=sr_1_2?ie=UTF8&qid=1489593786&sr=8-2&keywords=競技プログラミング) [【学内所蔵あり】](http://wine.wul.waseda.ac.jp/search~S12*jpn?/t{u30D7}{u30ED}{u30B0}{u30E9}{u30DF}{u30F3}{u30B0}{u30B3}{u30F3}{u30C6}{u30B9}{u30C8}/t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}/1%2C2%2C3%2CB/frameset&FF=t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}{21423f}{214c35}{69254e}{69253f}{692561}{69254e}{692522}{69256b}{692534}{69256a}{69253a}{692560}{692548}{692547}{69253f}{214539}{215c29}&1%2C1%2C)
   
-- プログラミングコンテストチャレンジブック [Amazon](https://www.amazon.co.jp/プログラミングコンテストチャレンジブック-第2版-問題解決のアルゴリズム活用力とコーディングテクニックを鍛える-秋葉拓哉/dp/4839941068/ref=sr_1_1?ie=UTF8&qid=1489593754&sr=8-1&keywords=アリ本) [学内所蔵あり](http://wine.wul.waseda.ac.jp/search~S12*jpn?/t{u30D7}{u30ED}{u30B0}{u30E9}{u30DF}{u30F3}{u30B0}{u30B3}{u30F3}{u30C6}{u30B9}{u30C8}/t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}/1%2C2%2C3%2CB/frameset&FF=t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}{692541}{692563}{69256c}{692573}{692538}{692556}{692543}{69252f}+{213648}{216050}{215834}{21466d}{69254e}{692522}{69256b}{692534}{69256a}{69253a}{692560}&2%2C%2C2)
+- プログラミングコンテストチャレンジブック [【Amazon】](https://www.amazon.co.jp/プログラミングコンテストチャレンジブック-第2版-問題解決のアルゴリズム活用力とコーディングテクニックを鍛える-秋葉拓哉/dp/4839941068/ref=sr_1_1?ie=UTF8&qid=1489593754&sr=8-1&keywords=アリ本) [【学内所蔵あり】](http://wine.wul.waseda.ac.jp/search~S12*jpn?/t{u30D7}{u30ED}{u30B0}{u30E9}{u30DF}{u30F3}{u30B0}{u30B3}{u30F3}{u30C6}{u30B9}{u30C8}/t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}/1%2C2%2C3%2CB/frameset&FF=t{692557}{69256d}{692530}{692569}{69255f}{692573}{692530}{692533}{692573}{692546}{692539}{692548}{692541}{692563}{69256c}{692573}{692538}{692556}{692543}{69252f}+{213648}{216050}{215834}{21466d}{69254e}{692522}{69256b}{692534}{69256a}{69253a}{692560}&2%2C%2C2)
   
 ## CTF  
 CTFはCapture The Flagの略で、コンピュータの知識を多岐にわたって駆使し、Flagと呼ばれるデータを巡って戦うゲームです。  
@@ -100,11 +100,11 @@ http://ctf.katsudon.org/
 https://www.slideshare.net/kikuchan98/ctf-45624362  
 
 ### 参考書籍（おすすめ順）
-- セキュリティコンテストチャレンジブック [Amazon](https://www.amazon.co.jp/セキュリティコンテストチャレンジブック-CTFで学ぼう-情報を守るための戦い方-碓井-利宣/dp/4839956480/ref=sr_1_1?ie=UTF8&qid=1489593875&sr=8-1&keywords=セキュリティコンテストチャレンジブック) [学内所蔵あり]()
-  
-- たのしいバイナリの歩き方 [Amazon](https://www.amazon.co.jp/たのしいバイナリの歩き方-愛甲健二-ebook/dp/B00EODUZFO/ref=sr_1_1?ie=UTF8&qid=1489594719&sr=8-1&keywords=たのしいバイナリのあるきかた) [学内所蔵あり](http://wine.wul.waseda.ac.jp/search~S12*jpn/?searchtype=t&searcharg=たのしいバイナリ&searchscope=12&SORT=D&extended=0&SUBMIT=検索&searchlimits=&searchorigarg=t%7Bu30BB%7D%7Bu30AD%7D%7Bu30E5%7D%7Bu30EA%7D%7Bu30C6%7D%7Bu30A3%7D%7Bu30B3%7D%7Bu30F3%7D%7Bu30C6%7D%7Bu30B9%7D%7Bu30C8%7D)
+- セキュリティコンテストチャレンジブック [【Amazon】](https://www.amazon.co.jp/セキュリティコンテストチャレンジブック-CTFで学ぼう-情報を守るための戦い方-碓井-利宣/dp/4839956480/ref=sr_1_1?ie=UTF8&qid=1489593875&sr=8-1&keywords=セキュリティコンテストチャレンジブック) [【学内所蔵あり】]()
 
-- デバッガによるx86プログラム解析入門【x64対応版】 [Amazon](https://www.amazon.co.jp/デバッガによるx86プログラム解析入門-x64対応版-Digital-Travesia管理人-うさぴょん/dp/4798042056/ref=sr_1_1?ie=UTF8&qid=1489594748&sr=8-1&keywords=x86プログラム解析入門) [学内所蔵あり](http://wine.wul.waseda.ac.jp/search~S12*jpn/?searchtype=t&searcharg=デバッガによる&searchscope=12&SORT=D&extended=0&SUBMIT=検索&searchlimits=&searchorigarg=t%7Bu305F%7D%7Bu306E%7D%7Bu3057%7D%7Bu3044%7D%7Bu30D0%7D%7Bu30A4%7D%7Bu30CA%7D%7Bu30EA%7D)
+- たのしいバイナリの歩き方 [【Amazon】](https://www.amazon.co.jp/たのしいバイナリの歩き方-愛甲健二-ebook/dp/B00EODUZFO/ref=sr_1_1?ie=UTF8&qid=1489594719&sr=8-1&keywords=たのしいバイナリのあるきかた) [【学内所蔵あり】](http://wine.wul.waseda.ac.jp/search~S12*jpn/?searchtype=t&searcharg=たのしいバイナリ&searchscope=12&SORT=D&extended=0&SUBMIT=検索&searchlimits=&searchorigarg=t%7Bu30BB%7D%7Bu30AD%7D%7Bu30E5%7D%7Bu30EA%7D%7Bu30C6%7D%7Bu30A3%7D%7Bu30B3%7D%7Bu30F3%7D%7Bu30C6%7D%7Bu30B9%7D%7Bu30C8%7D)
+
+- デバッガによるx86プログラム解析入門【x64対応版】 [【Amazon】](https://www.amazon.co.jp/デバッガによるx86プログラム解析入門-x64対応版-Digital-Travesia管理人-うさぴょん/dp/4798042056/ref=sr_1_1?ie=UTF8&qid=1489594748&sr=8-1&keywords=x86プログラム解析入門) [【学内所蔵あり】](http://wine.wul.waseda.ac.jp/search~S12*jpn/?searchtype=t&searcharg=デバッガによる&searchscope=12&SORT=D&extended=0&SUBMIT=検索&searchlimits=&searchorigarg=t%7Bu305F%7D%7Bu306E%7D%7Bu3057%7D%7Bu3044%7D%7Bu30D0%7D%7Bu30A4%7D%7Bu30CA%7D%7Bu30EA%7D)
   
 # 共同作業を便利にしたいとき  
 ## Git  
