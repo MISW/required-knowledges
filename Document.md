@@ -100,7 +100,7 @@ http://ctf.katsudon.org/
 https://www.slideshare.net/kikuchan98/ctf-45624362  
 
 ### 参考書籍（おすすめ順）
-- セキュリティコンテストチャレンジブック [【Amazon】](https://www.amazon.co.jp/セキュリティコンテストチャレンジブック-CTFで学ぼう-情報を守るための戦い方-碓井-利宣/dp/4839956480/ref=sr_1_1?ie=UTF8&qid=1489593875&sr=8-1&keywords=セキュリティコンテストチャレンジブック) [【学内所蔵あり】]()
+- セキュリティコンテストチャレンジブック [【Amazon】](https://www.amazon.co.jp/セキュリティコンテストチャレンジブック-CTFで学ぼう-情報を守るための戦い方-碓井-利宣/dp/4839956480/ref=sr_1_1?ie=UTF8&qid=1489593875&sr=8-1&keywords=セキュリティコンテストチャレンジブック) 【学内所蔵あり】
 
 - たのしいバイナリの歩き方 [【Amazon】](https://www.amazon.co.jp/たのしいバイナリの歩き方-愛甲健二-ebook/dp/B00EODUZFO/ref=sr_1_1?ie=UTF8&qid=1489594719&sr=8-1&keywords=たのしいバイナリのあるきかた) [【学内所蔵あり】](http://wine.wul.waseda.ac.jp/search~S12*jpn/?searchtype=t&searcharg=たのしいバイナリ&searchscope=12&SORT=D&extended=0&SUBMIT=検索&searchlimits=&searchorigarg=t%7Bu30BB%7D%7Bu30AD%7D%7Bu30E5%7D%7Bu30EA%7D%7Bu30C6%7D%7Bu30A3%7D%7Bu30B3%7D%7Bu30F3%7D%7Bu30C6%7D%7Bu30B9%7D%7Bu30C8%7D)
 
