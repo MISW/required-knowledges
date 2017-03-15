@@ -1,7 +1,10 @@
 # required-knowledges
 プログラミングを始めたあなたに送る、いつか使える知識・サイトリンク  
+ 
+ 
+資料  
+https://github.com/MISW/required-knowledges/blob/master/Document.md
 
-https://github.com/MISW/required-knowledges/Document.md
 
 ## なにこれ  
 本リポジトリは、プログラミングを始めた後に必要になる知識、知っておくと便利な知識をまとめた資料を、複数人で管理するためのリポジトリです。  
