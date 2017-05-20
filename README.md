@@ -24,5 +24,9 @@ https://github.com/MISW/required-knowledges/blob/master/Document.md
 
 C++やWeb関連の言語など、プログラミング言語について学びたいなら参考にしてください。  
 また、プログラミングで問題を解けるサイトの紹介もいくつかあるので、プログラミングに慣れてきたらぜひ問題を解いて楽しんでみてください。  
+
+ちなみにこの資料の著者は、情報系学科オリエンテーションの競技プログラミングで一位を取りました。  
+プログラミングを始めてからの1年でそこに至るまでの道のりとしても参考になると思います。
+
 https://github.com/MISW/required-knowledges/blob/master/Other01.md
 
